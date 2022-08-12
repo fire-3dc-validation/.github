@@ -13,8 +13,8 @@ Smallest demonstration.
     Dimensions (min/max)
     Dimensions (product within tolerance)
 3. Input and validation check in gltf.
-  1. Return the input.
-  2. Change the source asset.
-     "generator" : "Khronos glTF Blender I/O v3.2.43 and by fire-3dc-validator version AAA FAILED" 
-     "generator" : "Khronos glTF Blender I/O v3.2.43 and fire-3dc-validator version AAA PASSED"
-  3. Attach a report.
+    1. Return the input.
+    2. Change the source asset.
+        1. "generator" : "Khronos glTF Blender I/O v3.2.43 and by fire-3dc-validator version AAA FAILED" 
+        2. "generator" : "Khronos glTF Blender I/O v3.2.43 and fire-3dc-validator version AAA PASSED"
+    3. Attach a report.
