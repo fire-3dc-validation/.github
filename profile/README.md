@@ -1,4 +1,4 @@
-Experiments on 3d commerence validation and schemas by @fire
+Experiments on 3d commerce validation and schemas by @fire
 
 1. Investigate CUE to allow validation of composition of glTF 2.0 standards.
 
