@@ -6,12 +6,12 @@ Smallest demonstration.
 
 1. Take a fox and save it as json embedded
 2. Validations from 3DC:
-    File Size (min/max)
-    Triangle Count (max)
-    Material Count (max)
-    Texture Map Resolution Power of 2
-    Dimensions (min/max)
-    Dimensions (product within tolerance)
+    1. File Size (min/max)
+    2. Triangle Count (max)
+    3. Material Count (max)
+    4. Texture Map Resolution Power of 2
+    5. Dimensions (min/max)
+    6. Dimensions (product within tolerance)
 3. Input and validation check in gltf.
     1. Return the input.
     2. Change the source asset.
