@@ -18,7 +18,7 @@ Smallest demonstration.
 
 Return the fox and a report. 
 
-Output the fox as glb
+Output the fox as glb.
 
 Change the source asset.
             1. "generator" : "Khronos glTF Blender I/O v3.2.43 and by fire-3dc-validator version AAA FAILED" 
