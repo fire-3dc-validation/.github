@@ -14,8 +14,8 @@ Smallest demonstration.
     6. Dimensions (product within tolerance)
 3. Input and validation check in gltf.
     4. Return the fox and a report. 
-        5. Output the fox as glb
-            2. Change the source asset.
-                1. "generator" : "Khronos glTF Blender I/O v3.2.43 and by fire-3dc-validator version AAA FAILED" 
-                2. "generator" : "Khronos glTF Blender I/O v3.2.43 and fire-3dc-validator version AAA PASSED"
-        6. Return a report as json
+            5. Output the fox as glb
+                2. Change the source asset.
+                    1. "generator" : "Khronos glTF Blender I/O v3.2.43 and by fire-3dc-validator version AAA FAILED" 
+                    2. "generator" : "Khronos glTF Blender I/O v3.2.43 and fire-3dc-validator version AAA PASSED"
+            6. Return a report as json
