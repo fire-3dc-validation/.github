@@ -4,18 +4,24 @@ Experiments on 3d commerce validation and schemas by @fire
 
 Smallest demonstration.
 
-1. Take a fox and save it as json embedded
-2. Validations from 3DC:
-    1. File Size (min/max)
-    2. Triangle Count (max)
-    3. Material Count (max)
-    4. Texture Map Resolution Power of 2
-    5. Dimensions (min/max)
-    6. Dimensions (product within tolerance)
-3. Input and validation check in gltf.
-    4. Return the fox and a report. 
-            5. Output the fox as glb
-                2. Change the source asset.
-                    1. "generator" : "Khronos glTF Blender I/O v3.2.43 and by fire-3dc-validator version AAA FAILED" 
-                    2. "generator" : "Khronos glTF Blender I/O v3.2.43 and fire-3dc-validator version AAA PASSED"
-            6. Return a report as json
+# Take a fox and save it as json embedded
+
+# Validations from 3DC:
+   1. File Size (min/max)
+   2. Triangle Count (max)
+   3. Material Count (max)
+   4. Texture Map Resolution Power of 2
+   5. Dimensions (min/max)
+   6. Dimensions (product within tolerance)
+   
+# Input and validation check in gltf.
+
+Return the fox and a report. 
+
+Output the fox as glb
+
+Change the source asset.
+            1. "generator" : "Khronos glTF Blender I/O v3.2.43 and by fire-3dc-validator version AAA FAILED" 
+            2. "generator" : "Khronos glTF Blender I/O v3.2.43 and fire-3dc-validator version AAA PASSED"
+
+Return a report as json
