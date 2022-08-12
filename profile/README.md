@@ -2,7 +2,7 @@ Experiments on 3d commerce validation and schemas by @fire
 
 1. Investigate CUE to allow validation of composition of glTF 2.0 standards.
 
-Smallest demonstration.
+Provide a small demonstration.
 
 # Take a fox and save it as json embedded
 
